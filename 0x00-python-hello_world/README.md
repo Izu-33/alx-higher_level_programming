@@ -2,6 +2,6 @@
 
 ## Concepts
 
-  This project involves C programming language, Bash Scripting and Python
+  This project involves **C programming language**, **Bash Scripting** and **Python**
 
 
