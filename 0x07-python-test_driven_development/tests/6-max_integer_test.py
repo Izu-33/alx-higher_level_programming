@@ -30,7 +30,7 @@ class TestMaxInteger(unittest.TestCase):
 
     def test_one_element_list(self):
         """Test a list with just one item."""
-        single_element [6]
+        single_element = [6]
         self.assertEqual(max_integer(single_element), 6)
 
     def test_floats(self):
@@ -56,6 +56,7 @@ class TestMaxInteger(unittest.TestCase):
     def test_empty_string(self):
         """Test an empty string."""
         self.assertEqual(max_integer(""), None)
+
 
 if __name__ == '__main__':
     unittest.main()
