@@ -1,7 +1,7 @@
 #!/usr/bin/node
-let myObject = {
+const myObject = {
   type: 'object',
-  value: 1
+  value: 12
 };
 console.log(myObject);
 
